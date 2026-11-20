@@ -1,0 +1,26 @@
+CLIPS DE VICE CITY — SITE INSTITUCIONAL (GitHub Pages)
+
+Arquivos:
+- index.html: página inicial
+- terms.html: Termos de Serviço
+- privacy.html: Política de Privacidade
+
+PUBLICAÇÃO GRATUITA
+1. Entre em https://github.com e crie uma conta ou entre na sua conta.
+2. Crie um repositório público chamado clips-vice-city-site.
+3. Envie os três arquivos HTML deste pacote para a raiz do repositório (Add file > Upload files > Commit changes).
+4. Abra Settings > Pages.
+5. Em Build and deployment, selecione Deploy from a branch; escolha a branch main e a pasta /(root); clique Save.
+6. Aguarde a publicação. O endereço ficará no formato:
+   https://SEU-USUARIO.github.io/clips-vice-city-site/
+7. Teste no navegador, inclusive:
+   https://SEU-USUARIO.github.io/clips-vice-city-site/terms.html
+   https://SEU-USUARIO.github.io/clips-vice-city-site/privacy.html
+
+IMPORTANTE
+- Substitua SEU-USUARIO pelo nome exato da sua conta GitHub.
+- Não informe URLs ao TikTok até testar que abrem publicamente em janela anônima.
+- No TikTok Developers, cadastre a página inicial como Website URL (se aplicável), terms.html como Terms of Service URL e privacy.html como Privacy Policy URL.
+- O TikTok pode exigir verificação de propriedade das URLs e revisão do aplicativo. A hospedagem gratuita não garante aprovação.
+- A Política de Privacidade descreve o tratamento pretendido. Antes de conectar usuários reais, a implementação deve realmente seguir as práticas descritas, especialmente segurança, retenção e exclusão de tokens/dados.
+- Não coloque client_secret, tokens, senhas ou dados pessoais no repositório público.
